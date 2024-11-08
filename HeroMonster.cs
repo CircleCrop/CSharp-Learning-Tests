@@ -19,7 +19,7 @@
 */
 
 internal class HeroMonster {
-    internal static void Main() {
+    internal static void RunHeroMonster() {
         int hero = 10;
         int monster = 10;
         int attack;

@@ -6,7 +6,8 @@
     <RootNamespace>C Sharp Learning Test</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-	<PublishReadyToRun>true</PublishReadyToRun>
+		<PublishReadyToRun>true</PublishReadyToRun>
+		<DebugType>none</DebugType>
   </PropertyGroup>
 
 </Project>
