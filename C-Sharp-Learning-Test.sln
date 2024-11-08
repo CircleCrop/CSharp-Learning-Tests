@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C-Sharp-Learning-Test", "C-Sharp-Learning-Test.csproj", "{EEA280FA-FBFA-4E13-A8A8-BEAF8D486340}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEA280FA-FBFA-4E13-A8A8-BEAF8D486340}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEA280FA-FBFA-4E13-A8A8-BEAF8D486340}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEA280FA-FBFA-4E13-A8A8-BEAF8D486340}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{EEA280FA-FBFA-4E13-A8A8-BEAF8D486340}.Debug|x64.Build.0 = Debug|Any CPU
+		{EEA280FA-FBFA-4E13-A8A8-BEAF8D486340}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEA280FA-FBFA-4E13-A8A8-BEAF8D486340}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEA280FA-FBFA-4E13-A8A8-BEAF8D486340}.Release|x64.ActiveCfg = Release|Any CPU
+		{EEA280FA-FBFA-4E13-A8A8-BEAF8D486340}.Release|x64.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8281974C-1951-4997-908E-F7F0CC4039D9}
+	EndGlobalSection
+EndGlobal
