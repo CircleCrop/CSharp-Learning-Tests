@@ -230,5 +230,10 @@ public class Program {
     internal static void RandomApple() {
         Random random = new Random();
         appleLocation = (random.Next(0, windowHeight), random.Next(0, windowWidth));
+        foreach (var x in snakeLocation) {
+            if (appleLocation == x) {
+                RandomApple();
+            }
+        }
     }
 }
