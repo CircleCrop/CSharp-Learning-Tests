@@ -41,7 +41,7 @@ internal class SnakeGame {
     public static List<(int x, int y)> snakeLocation = new List<(int x, int y)>();
     public static (int x, int y) appleLocation;
 
-    public static void Main(string[] args) {
+    public static void RunSnakeGame(string[] args) {
         InitializingGameWindow();
 
         timer = new Timer(UpdateTime, null, 0, 1000);
